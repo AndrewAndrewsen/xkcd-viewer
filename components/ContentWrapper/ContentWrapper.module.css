@@ -1,0 +1,8 @@
+.ContentWrapper {
+  width: 95%;
+  border-radius: 2em;
+  background-color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px black solid;
+}

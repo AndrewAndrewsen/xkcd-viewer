@@ -1,0 +1,19 @@
+.Spacer {
+  width: 100%;
+}
+
+.smallest {
+  height: 1.5em;
+}
+
+.small {
+  height: 2.5em;
+}
+
+.medium {
+  height: 5em;
+}
+
+.large {
+  height: 7.5em;
+}

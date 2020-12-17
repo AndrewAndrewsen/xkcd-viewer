@@ -1,0 +1,15 @@
+.Icon img {
+  opacity: 0.6;
+}
+
+.Icon img:hover {
+  opacity: 1;
+}
+
+.filled img {
+  opacity: 1;
+}
+
+.link {
+  cursor: pointer;
+}

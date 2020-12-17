@@ -1,0 +1,20 @@
+.Header {
+  height: 5em;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgb(196, 196, 196) 100%
+  );
+  display: flex;
+  align-items: center;
+}
+
+.wrapper {
+  margin: 2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}

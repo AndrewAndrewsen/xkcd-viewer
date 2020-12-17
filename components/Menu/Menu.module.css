@@ -1,0 +1,10 @@
+.Menu {
+  display: flex;
+  justify-content: space-between;
+  width: 15em;
+}
+
+.menuItem img {
+  width: 3em;
+  height: 3em;
+}

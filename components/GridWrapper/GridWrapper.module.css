@@ -1,0 +1,6 @@
+.GridWrapper {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
+  align-items: flex-start;
+}
